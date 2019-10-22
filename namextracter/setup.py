@@ -14,7 +14,7 @@ setuptools.setup(
     url="https://github.com/frier-sam/namextracter",
     packages=setuptools.find_packages(),
     install_requires=[
-          'nltk==3.3'
+          'nltk==3.4.5'
       ],
     classifiers=[
         "Programming Language :: Python :: 3.6",
